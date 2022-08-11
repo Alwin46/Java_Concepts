@@ -1,0 +1,5 @@
+2022-08-11 13:42:35 DEBUG log4j :11 - This is debug logger
+2022-08-11 13:42:35 INFO  log4j :12 - This is info logger
+2022-08-11 13:42:35 WARN  log4j :13 - This is warning logger
+2022-08-11 13:42:35 ERROR log4j :14 - This is error logger
+2022-08-11 13:42:35 FATAL log4j :15 - This is fatal logger
